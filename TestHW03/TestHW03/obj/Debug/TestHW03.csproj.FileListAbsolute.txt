@@ -1,0 +1,7 @@
+C:\Users\Мозжегоров Кирилл\source\repos\TestHW03\TestHW03\bin\Debug\TestHW03.exe.config
+C:\Users\Мозжегоров Кирилл\source\repos\TestHW03\TestHW03\bin\Debug\TestHW03.exe
+C:\Users\Мозжегоров Кирилл\source\repos\TestHW03\TestHW03\bin\Debug\TestHW03.pdb
+C:\Users\Мозжегоров Кирилл\source\repos\TestHW03\TestHW03\obj\Debug\TestHW03.csproj.AssemblyReference.cache
+C:\Users\Мозжегоров Кирилл\source\repos\TestHW03\TestHW03\obj\Debug\TestHW03.csproj.CoreCompileInputs.cache
+C:\Users\Мозжегоров Кирилл\source\repos\TestHW03\TestHW03\obj\Debug\TestHW03.exe
+C:\Users\Мозжегоров Кирилл\source\repos\TestHW03\TestHW03\obj\Debug\TestHW03.pdb
